@@ -1,0 +1,27 @@
+#header{
+    font-size: 36px;
+    text-align: center;
+    color:#666666;
+    padding-top: 25px;
+    width: 100%;
+}
+
+.btn{
+    width: 120px;
+    height:60px;
+    border-style: none;
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px #aaaaaa;
+    margin:10px;
+    background: peachpuff;
+}
+
+#button-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#container{
+    width: 100%;
+}
